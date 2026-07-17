@@ -55,4 +55,4 @@ build-backend = "hatchling.build"
 packages = ["app"]
 
 [alembic]
-script_location = alembic
+script_location = "alembic"
