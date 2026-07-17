@@ -43,7 +43,9 @@ select = [
     "B",
 ]
 
-ignore = []
+ignore = [
+    "UP037",
+]
 
 [build-system]
 requires = [
